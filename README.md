@@ -1,3 +1,3 @@
-# Shravani & Vamshi Shaadi Invitation
+# Shravani & Vamshi Wedding Invitation
 
-Static Sangeeth and wedding invitation hosted with GitHub Pages.
+Static wedding-only invitation hosted with GitHub Pages.
